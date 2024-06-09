@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-23T11:02:30 IST" name="Default suite" finished-at="2024-05-23T11:04:02 IST" duration-ms="91160">
+    <groups>
+    </groups>
+    <test started-at="2024-05-23T11:02:30 IST" name="Default test" finished-at="2024-05-23T11:04:02 IST" duration-ms="91160">
+      <class name="test.SwagLabLoginTest">
+        <test-method is-config="true" signature="beforeClassMethod()[pri:0, instance:test.SwagLabLoginTest@53aac487]" started-at="2024-05-23T11:02:31 IST" name="beforeClassMethod" finished-at="2024-05-23T11:03:45 IST" duration-ms="73960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassMethod -->
+        <test-method signature="googleSuggestions()[pri:0, instance:test.SwagLabLoginTest@53aac487]" started-at="2024-05-23T11:03:45 IST" name="googleSuggestions" finished-at="2024-05-23T11:03:56 IST" duration-ms="10995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSuggestions -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SwagLabLoginTest@53aac487]" started-at="2024-05-23T11:03:56 IST" name="closeBrowser" finished-at="2024-05-23T11:04:02 IST" duration-ms="5866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.SwagLabLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
